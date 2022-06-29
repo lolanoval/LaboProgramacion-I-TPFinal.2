@@ -8,4 +8,4 @@ enum class eEstado { Volando, Despegando, Aterrizando, enEspera};
 enum class eModelo{A1,B2};
 
 string EstadoToString(eEstado estado);
-string ModeloToString(eModelo modelo);
+string ModeloToString(eModelo modelo); //hola
