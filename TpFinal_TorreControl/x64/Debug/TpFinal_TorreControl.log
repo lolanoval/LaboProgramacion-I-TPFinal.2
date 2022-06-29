@@ -1,0 +1,52 @@
+﻿  cAvion.cpp
+  cBiplano.cpp
+  cCESSNA.cpp
+  cFecha.cpp
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cFecha.cpp(61,40): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  cPista.cpp
+  cTorreControl.cpp
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\ListaPistas.h(19,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\ListaPistas.h(28,10): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(62,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(79,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(88,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(97,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(148,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cLista.h(61,9): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cLista.h(58): message : al compilar la función del miembro clase plantilla "bool cLista<cAvion>::operator +(T *)"
+          with
+          [
+              T=cAvion
+          ]
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(185): message : Vea la referencia a la creación de una instancia de la función plantilla "bool cLista<cAvion>::operator +(T *)" que se está compilando
+          with
+          [
+              T=cAvion
+          ]
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(5): message : Vea la referencia a la creación de una instancia de clase plantilla "cLista<cAvion>" que se está compilando
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cLista.h(172,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cLista.h(165): message : al compilar la función del miembro clase plantilla "void cLista<cAvion>::igualar(cLista<cAvion> *)"
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(15): message : Vea la referencia a la creación de una instancia de la función plantilla "void cLista<cAvion>::igualar(cLista<cAvion> *)" que se está compilando
+  Enum.cpp
+  GeneradorRand.cpp
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\ListaPistas.h(19,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\ListaPistas.h(28,10): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\GeneradorRand.cpp(15,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  main.cpp
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\ListaPistas.h(19,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\ListaPistas.h(28,10): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cLista.h(61,9): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cLista.h(58): message : al compilar la función del miembro clase plantilla "bool cLista<cAvion>::operator +(T *)"
+          with
+          [
+              T=cAvion
+          ]
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\main.cpp(20): message : Vea la referencia a la creación de una instancia de la función plantilla "bool cLista<cAvion>::operator +(T *)" que se está compilando
+          with
+          [
+              T=cAvion
+          ]
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\main.cpp(18): message : Vea la referencia a la creación de una instancia de clase plantilla "cLista<cAvion>" que se está compilando
+  Generando código...
+C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\TpFinal_TorreControl\cTorreControl.cpp(75): warning C4715: 'cTorreControl::AsignarPista': no todas las rutas de acceso de control devuelven un valor
+  TpFinal_TorreControl.vcxproj -> C:\Users\Usuario\Desktop\Favaloro 2022\LABO1\TpFinal_TorreControl\x64\Debug\TpFinal_TorreControl.exe
